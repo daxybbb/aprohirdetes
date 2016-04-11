@@ -7,7 +7,7 @@ android:
     - add-on 
     - extra 
     - platform-tools 
-    - tools 
+    - tools
     - extra-google-googleplayservices 
     - extra-google-m2repository 
     - extra-android-m2repository 
@@ -23,6 +23,6 @@ deploy:
 notifications: 
   email: 
     recipients: 
-    - myemail@address.com 
+    - bankaihckr@gmail.com
     on_success: always 
     on_failure: always 
